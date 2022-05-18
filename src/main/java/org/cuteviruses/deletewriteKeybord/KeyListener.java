@@ -9,6 +9,7 @@ import java.awt.event.KeyEvent;
 public class KeyListener implements NativeKeyListener {
     public void nativeKeyTyped(NativeKeyEvent e) {
         MainController.robot.keyPress(KeyEvent.VK_BACK_SPACE);
+        MainController.robot.keyRelease(KeyEvent.VK_BACK_SPACE);
     }
 
 
