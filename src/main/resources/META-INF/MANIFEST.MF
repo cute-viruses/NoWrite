@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: org.cuteviruses.deletewriteKeybord.main
+Main-Class: org.cuteviruses.nowrite.main
 

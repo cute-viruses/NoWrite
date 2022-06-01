@@ -1,4 +1,4 @@
-package org.cuteviruses.deletewriteKeybord;
+package org.cuteviruses.nowrite;
 
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
