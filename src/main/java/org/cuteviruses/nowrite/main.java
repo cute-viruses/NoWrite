@@ -1,4 +1,4 @@
-package org.cuteviruses.deletewriteKeybord;
+package org.cuteviruses.nowrite;
 
 public class main {
     public static void main (String[] args) {

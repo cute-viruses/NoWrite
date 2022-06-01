@@ -1,4 +1,4 @@
-package org.cuteviruses.deletewriteKeybord;
+package org.cuteviruses.nowrite;
 import com.github.kwhat.jnativehook.GlobalScreen;
 import com.github.kwhat.jnativehook.NativeHookException;
 import java.awt.*;
