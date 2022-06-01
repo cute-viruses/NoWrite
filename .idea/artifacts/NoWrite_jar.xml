@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoWrite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoWrite_jar</output-path>
+    <root id="archive" name="NoWrite.jar">
+      <element id="module-output" name="NoWrite" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/kwhat/jnativehook/2.2.2/jnativehook-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
