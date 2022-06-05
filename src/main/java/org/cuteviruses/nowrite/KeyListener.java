@@ -7,8 +7,8 @@ import java.awt.event.KeyEvent;
 
 public class KeyListener implements NativeKeyListener {
     public void nativeKeyTyped(NativeKeyEvent e) {
-        MainController.robot.keyPress(KeyEvent.VK_BACK_SPACE);
-        MainController.robot.delay(100);
-        MainController.robot.keyRelease(KeyEvent.VK_BACK_SPACE);
+        MainController.getRobot().keyPress(KeyEvent.VK_BACK_SPACE);
+        MainController.getRobot().delay(100);
+        MainController.getRobot().keyRelease(KeyEvent.VK_BACK_SPACE);
     }
 }
